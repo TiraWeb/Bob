@@ -1,5 +1,9 @@
-*{
+* {
   font-family: sans-serif;
-  color: aqua;
-  background-color: #0f111a
+  color: white;
+  background-color: #0f111a;
+}
+
+.heading {
+  color: #0ff1be;
 }
